@@ -1,0 +1,14 @@
+9cb38926bd4162c6e3367e9d65238a0d *DESCRIPTION
+635bde134b78e0f41b2fc5f2e343f049 *NAMESPACE
+2b44d74eb2d46b103459e79fb90767b2 *R/evaluate.R
+e1ea9ea6a5a4cd1cac1ec4c2ae90b4f6 *R/helper.R
+c5afead468f9abec1359ad693db663e8 *R/models.R
+ee3f4a00a21b24a4b1eafcdc60ff6afc *R/rsig.R
+4c0d6eb7339f51cf04cbb1e1ce6a1248 *R/rsig.all.R
+b1707a18b50dfe573bc93e65d1871bfc *R/sampling.R
+670d3981f4d02b7b2ac2570f2122b4c2 *R/zzz.R
+1e2591c7fbbef2655e69686eb23f7106 *inst/tests/test_robsel.R
+b0738f35b13dd16c6f54b5f28ba02a5f *man/predict.rsig.Rd
+88cb6c652bb8fe0d549f62d3ab79341b *man/rsig.Rd
+2beb704a5e6ab91231054cb0c52e10e0 *man/rsig.all.Rd
+845fd7d05e39198e617dd1d8481cf17f *man/rsig.eval.Rd
